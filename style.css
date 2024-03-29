@@ -1,0 +1,186 @@
+.nav{
+padding-left: 25px;
+padding-right: 25px;
+background-color: #272320;
+
+
+}
+a{
+    text-decoration: none;
+    color: #fcf4f4;
+}
+.nav div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+li a{
+    margin-right: 25px;
+}
+li{
+    list-style: none;
+    display: inline ;
+    
+}
+#txt{
+    position: absolute;
+    left: 50%;
+    margin-top: 50%;
+    transform: translate(-50% -50%);
+    padding: 0.5 rem;
+    text-align: center;
+    
+}
+#body{
+
+}
+#container{
+    background-color: white;
+    margin: 80px;
+
+}
+.seat{
+    width: 350px;
+    height: 280px;
+
+}
+#many{
+    display: flex;
+}
+#main2{
+    display: flex;
+}
+#many{
+    gap: 40px;
+}
+.sofa{
+    width: 350px;
+    height: 150px;
+    margin-top: 40%;
+}
+#Living{
+    display: flex;
+    
+}
+#anotherone{
+    display: flex;
+    gap: 20px;
+}
+.imges{
+    margin-top:30%;
+}
+#Modern{
+    display: flex;
+}
+#imgs{
+    display: flex;
+
+}
+#rect{
+    width: 1000px;
+    height: 400px;
+    background-color: #D5c2B1;
+    margin-left: 20%;
+    
+    
+
+}
+#section1{
+    text-align: center;
+    gap: 30px;
+}
+#ima{
+    display: flex;
+}
+#alexander{
+    display: flex;
+}
+#section1{
+    display: flex;
+    margin-top: 5%;
+    
+}
+
+#thirdbox{
+    width: 250px;
+    height:150px ;
+    background-color: aliceblue;
+    padding-left: 13%;
+
+    
+
+
+}
+#secondbox{
+    width: 280px;
+    height:150px ;
+    background-color: aliceblue;
+    
+
+
+
+
+}
+#firstbox{
+    width: 280px;
+    height:150px ;
+    background-color: aliceblue;
+
+
+}
+#Testimonials{
+    text-align: center;
+    
+}
+#blogs{
+    text-align: center;
+}
+.bonq{
+width: 500px;
+height:700px ;
+display: flex;
+}
+
+#glasses{
+    display: flex;
+}
+.laptop{
+    width: 180px;
+    height: 200px;
+}
+#imagebq{
+    display: flex;
+    
+    
+}
+#room{
+    display: flex;
+    gap: 10%;
+    
+}
+#laptops{
+    display: flex;
+    gap: 10%;
+}
+#glasses{
+    gap: 10%;
+}
+
+
+#column{
+    display: block;
+
+}
+#flex{
+    display: flex;
+    gap:5%;
+}
+.living{
+    width: 100%;
+}
+#navdiv ul{
+    
+    
+}
