@@ -25,20 +25,30 @@ li{
     
 }
 #txt{
-    position: absolute;
+    /* position: absolute;
     left: 50%;
-    margin-top: 50%;
+    margin-top: 50%;.footer{
+        display: flex;
+        padding-left: 300px;
+        color: black;
+        background-color: black;
+    }
+    top: 50%;
     transform: translate(-50% -50%);
     padding: 0.5 rem;
-    text-align: center;
+    text-align: center; */
+
     
 }
 #body{
+    background-color: black;
+    margin-top:0;
 
 }
 #container{
     background-color: white;
     margin: 80px;
+    margin-top: 0%;
 
 }
 .seat{
@@ -48,12 +58,22 @@ li{
 }
 #many{
     display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+.why{
+    text-align: center;
+ 
+}
+#browse{
+    text-align: center;
 }
 #main2{
     display: flex;
+    justify-content: center;
 }
-#many{
-    gap: 40px;
+#product{
+    text-align: center;
 }
 .sofa{
     width: 350px;
@@ -62,17 +82,20 @@ li{
 }
 #Living{
     display: flex;
+    justify-content: center;
     
 }
 #anotherone{
     display: flex;
     gap: 20px;
+    justify-content: center;
 }
 .imges{
     margin-top:30%;
 }
 #Modern{
     display: flex;
+    justify-content: center;
 }
 #imgs{
     display: flex;
@@ -176,11 +199,32 @@ display: flex;
 #flex{
     display: flex;
     gap:5%;
+    justify-content: center;
 }
 .living{
     width: 100%;
 }
-#navdiv ul{
+.butt1{
+    padding: 10px 20px;
+    background-color: #B1712E;
+    color:white;
+
+}
+span{
+    color: #B1712E;
+}
+#big{
+    display: flex;
+    justify-content: center;
     
+}
+#bigger{
+    text-align: center;
+}
+#footer{
+    background-color: #272320;
+    color: aliceblue;
+    display: flex;
+    gap: 350px;
     
 }
