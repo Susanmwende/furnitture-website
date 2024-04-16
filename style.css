@@ -24,19 +24,14 @@ li{
     display: inline ;
     
 }
-#txt{
-    /* position: absolute;
+.txt{
+    position: absolute;
     left: 50%;
-    margin-top: 50%;.footer{
-        display: flex;
-        padding-left: 300px;
-        color: black;
-        background-color: black;
-    }
-    top: 50%;
-    transform: translate(-50% -50%);
-    padding: 0.5 rem;
-    text-align: center; */
+    top: 40%;
+    transform: translate(-50%,-50%);
+    padding: 0.5rem;
+    text-align: center;
+    color: aliceblue;
 
     
 }
@@ -227,4 +222,8 @@ span{
     display: flex;
     gap: 350px;
     
+}
+#placeholder{
+    padding: 20px 30px;
+
 }
